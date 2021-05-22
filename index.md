@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# [Restaurant Source Code POS](https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html)
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/bangresto/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Source code point of sale apps for restaurant cafe bussiness.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Documentation here →](https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html)
 
-### Markdown
+[Dekstop demo →](https://youtu.be/6_-G3HQDTP8)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Mobile demo →](https://youtu.be/flEOlOOMjv8)
 
-```markdown
-Syntax highlighted code block
+Simple and complete include with waiters order , kitchen display , and admin apps.
 
-# Header 1
-## Header 2
-### Header 3
+--------
 
-- Bulleted
-- List
+![Source code point of sale apps for restaurant cafe](https://1.bp.blogspot.com/-cZqhXiDifU4/YKkozbBuJVI/AAAAAAAAOEw/veOCqNQikAgDsINJQTXlNIRcShWQbqJ1wCLcBGAsYHQ/s1349/restaurant%2Bsource%2Bcode%2Bpos%2Bfree%2Bdownload%2Bgratis%2B%25288%2529.png)
 
-1. Numbered
-2. List
+Call it Bang resto the brother of bang jago :D
 
-**Bold** and _Italic_ and `Code` text
+![restaurant cafe Source code point of sale apps](https://1.bp.blogspot.com/-bXkJtq1Uof8/YKkoxlwIWCI/AAAAAAAAOEY/PGyUAJ0nJjghLWN22CBdNqAGbi_ZVYjHgCLcBGAsYHQ/s1348/restaurant%2Bsource%2Bcode%2Bpos%2Bfree%2Bdownload%2Bgratis%2B%25282%2529.png)
 
-[Link](url) and ![Image](src)
-```
+Menu Database for create food and drink menu on admin page area apps.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![restaurant cafe Source code point of sale apps](https://1.bp.blogspot.com/-fi8dhrv6Qpc/YKkozzAG2qI/AAAAAAAAOE4/VDu72sya4UoKciPAX_ef2dg8_iT8GpgFgCLcBGAsYHQ/s1535/source%2Bcode%2Brestaurant%2Bpos%2Bapplication%2Bfree%2Bdownload%2Bgratis.png)
 
-### Jekyll Themes
+List Order Checker on admin monitoring details.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/bangresto/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![restaurant cafe Source code point of sale apps](https://1.bp.blogspot.com/-9ogILh49mSg/YKkoyGj7W2I/AAAAAAAAOEc/oQ9f_JnVIb4kjBvXVe9LpYRCY9pWWS2DgCLcBGAsYHQ/s1484/restaurant%2Bsource%2Bcode%2Bpos%2Bfree%2Bdownload%2Bgratis%2B%25283%2529.png)
 
-### Support or Contact
+Income profit report details is ready.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![restaurant cafe Source code point of sale apps](https://1.bp.blogspot.com/-p9IyAeE2sL4/YKkoyVx866I/AAAAAAAAOEg/Tq0T7srdFZcuBX8iPTVa3uXrOa5Qr6YsgCLcBGAsYHQ/s1348/restaurant%2Bsource%2Bcode%2Bpos%2Bfree%2Bdownload%2Bgratis%2B%25284%2529.png)
+
+Alert display on staff waiters and kitchen area for reminder order.
+
+
+![restaurant cafe Source code point of sale apps](https://1.bp.blogspot.com/-kcAcCJR3vr8/YKkoyoEiyjI/AAAAAAAAOEk/7RORW49cKpwKZOLPFG9YAsr6_urHDRy4wCLcBGAsYHQ/s1366/restaurant%2Bsource%2Bcode%2Bpos%2Bfree%2Bdownload%2Bgratis%2B%25285%2529.png)
+
+Waiters order display.
+
+
+![restaurant cafe Source code point of sale apps](https://1.bp.blogspot.com/-11907QLOZRA/YKkoxV3UUBI/AAAAAAAAOEQ/_wRzYn8i3yow3Bd4AGewNybGeiHG_UywgCLcBGAsYHQ/s693/restaurant%2Bsource%2Bcode%2Bpos%2Bfree%2Bdownload%2Bgratis%2B%25281%2529.png)
+
+Waiters order display accsess from smartphone.
+
+![restaurant cafe Source code point of sale apps](https://1.bp.blogspot.com/-3_lS5jxyPGA/YKkoywSNPLI/AAAAAAAAOEo/a-i5XhuEjSAOK4kilCAmkH1fjGkotc3kACLcBGAsYHQ/s1348/restaurant%2Bsource%2Bcode%2Bpos%2Bfree%2Bdownload%2Bgratis%2B%25286%2529.png)
+
+Kitchen display screen with update status
+
+--------
+
+How to install and work with this apps ??
+
+[just read documentation here →](https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html)
+
+Present by [axcora](https://axcora.com)
