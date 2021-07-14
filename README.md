@@ -54,3 +54,18 @@ How to install and work with this apps ??
 [just read documentation here →](https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html)
 
 Present by [axcora](https://axcora.com)
+
+--------------
+
+
+### Buy me a coffee :hearts: ✌🏻
+
+:coffee: :coffee: :coffee: 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
