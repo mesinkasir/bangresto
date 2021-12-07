@@ -2,7 +2,7 @@
 
 Source code point of sale apps for restaurant cafe bussiness.
 
-[Documentation here →](https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html)
+Documentation : [https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html →](https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html)
 
 Need a demo just visit : [https://axcora.my.id/bangrestoapp/](https://axcora.my.id/bangrestoapp/)
 
@@ -49,7 +49,8 @@ Kitchen display screen with update status
 
 How to install and work with this apps ??
 
-[just read documentation here →](https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html)
+Documentation : [https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html →](https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html)
+
 
 Need a demo just visit : [https://axcora.my.id/bangrestoapp/](https://axcora.my.id/bangrestoapp/)
 
