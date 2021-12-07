@@ -2,11 +2,9 @@
 
 Source code point of sale apps for restaurant cafe bussiness.
 
-[Documentation here →](https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html)
+Documentation : [https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html →](https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html)
 
-[Dekstop demo →](https://youtu.be/6_-G3HQDTP8)
-
-[Mobile demo →](https://youtu.be/flEOlOOMjv8)
+Need a demo just visit : [https://axcora.my.id/bangrestoapp/](https://axcora.my.id/bangrestoapp/)
 
 Simple and complete include with waiters order , kitchen display , and admin apps.
 
@@ -51,6 +49,22 @@ Kitchen display screen with update status
 
 How to install and work with this apps ??
 
-[just read documentation here →](https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html)
+Documentation : [https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html →](https://www.hockeycomputindo.com/2021/05/restaurant-pos-source-code-free.html)
+
+
+Need a demo just visit : [https://axcora.my.id/bangrestoapp/](https://axcora.my.id/bangrestoapp/)
 
 Present by [axcora](https://axcora.com)
+
+--------------
+
+
+### Buy me a ☕️ ☕️  ✌🏻
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
